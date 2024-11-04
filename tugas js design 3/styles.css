@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 50px;
+    background: url(Conexão\ de\ rede\ de\ fundo\ tecnológico\ _\ Vetor\ Grátis.png);
+    background-size: cover;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: rgba(19, 18, 18, 0.363);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(58, 172, 109, 0.986);
+    color: aqua;
+
+}
+
+h1, h2 {
+    color: aqua;
+}
+
+button {
+    background-color: #08f3275d;
+    color: rgb(248, 253, 250);
+    border: none;
+    padding: 10px 15px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #17acda;
+}
+
+input[type="number"] {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 10px;
+    width: calc(100% - 22px);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background:url(Conexão\ de\ rede\ de\ fundo\ tecnológico\ _\ Vetor\ Grátis.png);
+    color: #37f807;
+}
